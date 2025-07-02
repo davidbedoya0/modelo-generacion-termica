@@ -8,3 +8,13 @@ venv/
 
 # MacOS
 .DS_Store
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+src/__pycache__/__init__.cpython-310.pyc
+src/data/thermal_generation_class.py
+src/data/thermal_generation_class.py:Zone.Identifier
+src/api/main_thermal_gen_class.py
+src/api/main_thermal_gen_class.py:Zone.Identifier
